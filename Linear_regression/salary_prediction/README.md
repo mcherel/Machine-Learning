@@ -1,6 +1,6 @@
 # Training Data Linear Regression Project
 
-**Graph befor training**
+**Graph before training**
 
 ![Graph construction using csv dataset](Figure_1.png)
 
